@@ -1,0 +1,60 @@
+int x = 10
+
+int (tipo de dato)
+x (nombre de fantasia)
+10 (lo mas importante es el valor de la variable)
+
+direccion de memoria de la variable (la gestiona el sistema operativo y es abstracta al programador)
+
+con un "&" que anteceda a la variable, obtenemos la direccion de memoria de la misma (siempre es aleatoria, se obtiene en tiempo de ejecucion.) (ejemplo "&x")
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+el uso natural de un puntero: leer y modificar una variable en otras funciones (memoria estatica)
+
+(memoria estatica: una pequeña parte de la memoria)
+(memoria dinamica: el resto de la memoria ram esta disponible para guardar variables)
+
+Enteros = complemento A2
+flotantes = IEEE 754
+char = pasa por el codigo Ascii
+
+el tipo de dato me dice el "sizeOf" de la variable y como lo tiene manipular para poder guardarlo en la memoria
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+esta programacion = "puntero"
+
+Programacion Orientada a Objetos (en otras programaciones) = "referencia"
+
+NUNCA DEJAR SIN INICIALIZAR UN PUNTERO, podemos sobreescribir variables de la placa de video o de un antivirus, muy peligroso. :c
+
+(eof = end of file. caracter especial de archivos para saber donde termina el mismo)
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+los punteros se pueden declarar "int* p" o "int *p"
+
+primer uso: durante la declaracion el asterisco me dice que declare un puntero de un tipo de dato
+segundo uso: "*" operador de direccion y "&" operador de indireccion... "*p" el valor de esa direccion de memoria
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Vectores, ¿por que arrancamos por CERO?
+
+*(vec + 1) // esto es vec + 1 sizeOf del tipo de dato, si vec es entero, entonces es VEC + 1 sizeOf de un entero
+
+vec[0] // 0 es la direccion de memoria inicial, desplazo 0 sizeOf del tipo de dato.
+
+vec[1] // se desplaza 1 sizeOf del tipo de dato
+
+vec[2] // se desplaza 2 sizeOf del tipo de dato
+
+"Nomenclatura vectorial" == corchetes.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+

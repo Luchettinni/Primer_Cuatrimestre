@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1558969826 source:c:\users\alumno\desktop\archivos2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559568135 source:c:\users\alumno\desktop\parser, la posta posta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559600852 source:d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\primer_cuatrimestre\practica\( 3-6-2019 ) parser (archivos) con memoria dinamica y punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

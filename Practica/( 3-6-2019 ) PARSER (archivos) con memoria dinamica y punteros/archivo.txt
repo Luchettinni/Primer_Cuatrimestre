@@ -1,0 +1,3 @@
+1234,Juan,Perez,20000.50
+2222,Ana,Gomez,21500.70
+3333,Julio,Gutierrez,30000.20

@@ -1,0 +1,45 @@
+... ARCHVIOS ...
+
+Apunte: explica PARSER, tiene que ver con texto (interpretacion plata'textoplano')
+
+difrencia de tipos de archivo (binario / texto)...
+
+con archivos... todos los datos que voy cargando se van a persistir en ellos mismos
+
+//------------------------------------------------------------------------------------------------//
+
+* la maquina los procesa en binario, ambos tipos de archivo.
+
+* texto plano: lo que escribo y lo puedo visualizar en un editor de texto.
+
+* archivos binarios <---> son estructuras... si trabajo con estructuras, trabajo con archivos binarios
+
+* archivos de texto <---> si lo tiene que interpretar alguien mas 
+
+* TODO se trabaja en memoria. cuando escribo, lo hago en el disco, cuando leo, paso la info del disco a la memoria
+
+//------------------------------------------------------------------------------------------------//
+
+> fopen(char *nombre, char *modo) = abre el archivo en cuestion
+> fclose () = cierra el archivo en cuestion (archivo especifico)
+> fcloseall(void) = cierra todos los archivos
+> fread = Lee Archivos
+> fwrite = Escribe archivos
+> feof = FILE END OF FILE (fin de archivo) retorna 1 (llego al final del archivo) 0 (todavia no llego al final del archivo)
+> rewind = el señalador vuelva al comienzo del archivo
+> fseek = la posicion inicial del archivo, la posicion donde estoy actualmente, la posicion del final del archivo
+> ftell = me permite saber la cantidad de bytes a partir del señalador hasta el end of file
+> fscanf = el dato es leido desde un archivo, a una variable
+> fprintf = escribe datos en el archivo
+
+* Siempre trabajar con ruta relativa
+
+------ 3 DE JULIO SEGUNDO PARCIAL ------
+
+26 de junio entrega del recuperatorio del primer parcial
+
+--------------------------------------------------------
+
+MIERCOLES QUE VIENE PARO
+
+--------------------------------------------------------

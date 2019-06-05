@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554736872 source:c:\users\alumno\desktop\primer-cuatrimestre---utnfra-en-c\primer cuatrimestre - utnfra en c\practica\paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1554896031 source:c:\users\alumno\desktop\primer-cuatrimestre---utnfra-en-c\primer cuatrimestre - utnfra en c\practica\sort by\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555957448 source:c:\users\apyr\desktop\primer-cuatrimestre---utnfra-en-c\primer cuatrimestre - utnfra en c\practica\sort by\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

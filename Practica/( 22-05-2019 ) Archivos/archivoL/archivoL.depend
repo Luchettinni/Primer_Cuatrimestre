@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558531648 source:c:\users\alumno\desktop\archivol\main.c
+	<stdio.h>
+	<stdlib.h>
+
